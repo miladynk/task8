@@ -1,0 +1,44 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: rgb(2, 52, 2);
+}
+
+.card-header {
+    background-color: lightyellow;
+    padding: 0;
+    margin: 0;
+    font-size: xx-large;
+    color:darkblue;
+    border-bottom: solid;
+    border-color: darkblue;
+}
+
+.form-group {
+    margin-left: 30px;
+    color: darkblue;
+}
+
+.valueRange {
+    color: darkblue;
+}
+
+.card-body {
+    background-color: lightyellow;
+}
+
+#answerField {
+    color: darkblue;
+}
+
+.guessNumber {
+    color: darkblue;
+    font-size: large;
+}
